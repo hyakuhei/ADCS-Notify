@@ -1,0 +1,8 @@
+notify.ps1
+
+Purpose:
+Alert admins when certificate requests are queued up on an Active Directory Certificate Services box
+
+Simple script intended to be run automatically and periodically to notify by email parties who wish to know that's requests are waiting and need actioning.
+
+Config variables at the top of the script.
